@@ -50,6 +50,7 @@
   #BarPane {
     display: flex;
     flex-direction: row;
+    gap: .25em;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
